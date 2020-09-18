@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Nouveau dossier</folder>
+	<filename>frame427.jpg</filename>
+	<path>C:\Users\ahmed\Desktop\Nouveau dossier\frame427.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>personne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1038</xmin>
+			<ymin>1160</ymin>
+			<xmax>1170</xmax>
+			<ymax>1304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>1076</ymin>
+			<xmax>1354</xmax>
+			<ymax>1648</ymax>
+		</bndbox>
+	</object>
+</annotation>

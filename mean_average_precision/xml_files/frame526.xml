@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Nouveau dossier</folder>
+	<filename>frame526.jpg</filename>
+	<path>C:\Users\ahmed\Desktop\Nouveau dossier\frame526.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>personne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>825</ymin>
+			<xmax>626</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>645</ymin>
+			<xmax>1806</xmax>
+			<ymax>1289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1398</xmin>
+			<ymin>5</ymin>
+			<xmax>1650</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>
